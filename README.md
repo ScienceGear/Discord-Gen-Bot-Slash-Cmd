@@ -19,7 +19,7 @@ Use To See How May Stock Are Left Over
 For Help And Cmds
 
 **/change (Admin Only)**
-#Chanege Cooldown Or ID Of Channel
+Chanege Cooldown Or ID Of Channel
 
 **/add**
 Add Accounts In Your Bot
